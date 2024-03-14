@@ -1,0 +1,23 @@
+{
+  "name": "vitest-str-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aunimhsn/vitest-str-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aunimhsn/vitest-str-calculator/issues"
+  },
+  "homepage": "https://github.com/aunimhsn/vitest-str-calculator#readme",
+  "devDependencies": {
+    "vitest": "^1.3.1"
+  }
+}
